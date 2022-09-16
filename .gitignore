@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Built application files
 *.apk
 *.aar
@@ -87,4 +87,5 @@ lint/tmp/
 
 # system
 .DS_Store
-.desktop.ini
+.ico
+desktop.ini
